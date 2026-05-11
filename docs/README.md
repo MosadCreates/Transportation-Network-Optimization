@@ -1,4 +1,4 @@
-# CSE112 — Smart City Transportation Network Optimization
+# Smart City Transportation Network Optimization
 ## Greater Cairo Metropolitan Area
 
 ---
